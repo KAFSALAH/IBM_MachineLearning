@@ -12,7 +12,7 @@
 
 04 - [Unsupervised Machine Learning](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/04%20-%20Unsupervised%20Machine%20Learning)
 
-#### • You are welcome to explore my findings in the capstone projects, which I created during my learning journy.
+#### • You are welcome to explore my findings in the capstone projects, which I created during my learning journey, as below,
 
 Capstone Project A - [Treatment Costs per Person - Exploratory & Predictive Analysis
 ](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/01%20-%20Exploratory%20Data%20Analysis/F%20-%20Treatment%20Costs%20per%20Person%20-%20Exploratory%20%26%20Predictive%20Analysis.ipynb)
