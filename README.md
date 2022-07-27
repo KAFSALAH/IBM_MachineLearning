@@ -5,6 +5,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 #### • The aim of this repository is to build highly-interpretable and highly-accurate machine learning models that balance between variance, bias, and time complexity :bulb:
 #### • Most of the time, Scikit-Learn framework is being used to build ML models and Keras for DL. I hope you find these notebooks useful :smile:
