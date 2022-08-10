@@ -32,3 +32,4 @@ Capstone Project C - [Fault Classification in Photovoltaic Plants - Multiclassif
 
 Capstone Project D - [Date Fruit Segmentation & Dimensionality Reduction via PCA](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/04%20-%20Unsupervised%20Machine%20Learning/F%20-%20Date%20Fruit%20Segmentation%20%26%20Dimensionality%20Reduction%20via%20PCA.ipynb)
 
+Capstone Project E -  [MRI Brain Tumor Classification via CNN](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/J%20-%20MRI%20Brain%20Tumor%20Classification%20via%20CNN.ipynb)
