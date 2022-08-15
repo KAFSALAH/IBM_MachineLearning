@@ -66,7 +66,7 @@ You are welcome to explore my findings in my personal capstone projects that I c
 
 #### E -  [MRI Brain Tumor Classification via CNN](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/J%20-%20MRI%20Brain%20Tumor%20Classification%20via%20CNN.ipynb)
 
-• Aim: Detect whether a petient has a brain tumor.
+• Aim: Detect whether a patient has a brain tumor.
 
 • Procedure: Image Scaling. Train a CNN model to classify brain tumors. Deploy the deep learning model using flask app.
 
