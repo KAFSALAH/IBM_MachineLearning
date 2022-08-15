@@ -21,6 +21,8 @@
 
 05 - [Deep Learning and Reinforcement Learning](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning)
 
+06 - [IBM ML Capstone Project](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
+
 #### • You are welcome to explore my findings in the capstone projects, which I created during my learning journey, as below,
 
 Capstone Project A - [Treatment Costs per Person - Exploratory & Predictive Analysis
