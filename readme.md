@@ -6,11 +6,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-The aim of this repository is to build highly-interpretable and highly-accurate machine learning models that balance between variance, bias, and time complexity. Scikit-Learn framework is being used to build machine learning models and Keras for deep learning :bulb:
+This repository aims is to build highly interpretable and accurate machine learning models that balance variance, bias, and time complexity. The Scikit-Learn framework is being used to build machine learning models and Keras for deep learning :bulb:
 
 ## Courses
 
-The repository contains hands-on labs of 6 machine learning courses created by IBM. These courses cover in depth and breadth numerous ML concepts.
+The repository contains hands-on labs of 6 machine learning courses created by IBM, which cover in-depth and breadth numerous ML concepts.
 
 #### 01 - [Exploratory Data Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/01%20-%20Exploratory%20Data%20Analysis)
 Hands-on Labs: SQL, Hypothesis Testing, Features Transformation, Scaling, Skewness & Importance.
@@ -22,7 +22,7 @@ Hands-on Labs: Cross-Validation, Ridge, Lasso, ElasticNet, Pipelines.
 Hands-on Labs: Logistic Regression, K-Nearest Neighbor, Support Vector Machine, Decision Tree, Random Forrest, Extra Trees, Ensemble, Bagging, Boosting, Stacking, Model-Agnostic, Resampling Techniques.
 
 #### 04 - [Unsupervised Machine Learning](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/04%20-%20Unsupervised%20Machine%20Learning)
-Hands-on Labs: Principle Component Analysis, Distance Metrics, Inertia & Distortion, K-means, hierarchical, DBSCAN, Mean Shift Clusterring.
+Hands-on Labs: Principle Component Analysis, Distance Metrics, Inertia & Distortion, K-means, hierarchical, DBSCAN, Mean Shift Clustering.
  
 #### 05 - [Deep Learning and Reinforcement Learning](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning)
 Hands-on Labs: Gradient Descent, Backpropagation, Artificial NN, Convolutional NN, Recurrent NN.
@@ -30,7 +30,7 @@ Hands-on Labs: Gradient Descent, Backpropagation, Artificial NN, Convolutional N
 #### 06 - [IBM ML Capstone Project — Online Courses Recommender System](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
 
 ## Capstone Projects
-You are welcome to explore my findings in my personal capstone projects that I created during my learning journey.
+You are welcome to explore my findings in the personal capstone projects that I created during my learning journey.
 
 #### A - [Treatment Costs per Person - Exploratory & Predictive Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/01%20-%20Exploratory%20Data%20Analysis/F%20-%20Treatment%20Costs%20per%20Person%20-%20Exploratory%20%26%20Predictive%20Analysis.ipynb)
 
@@ -38,7 +38,7 @@ You are welcome to explore my findings in my personal capstone projects that I c
 
 • Procedure: in-Depth EDA via pair, bar, box, violin, and regression plots to see the effect of smoking on charges. Hypothesis testing the relationship between treatment costs above 35K$ and smoking status
 
-• Findings: The test indicates that a person with 35K$ charges is most-likely a smoker with a p-value = 0.023 and a confidence level of 0.977.
+• Findings: The test indicates that a person with 35K$ charges is most likely a smoker with a p-value = 0.023 and a confidence level of 0.977.
 
 #### B - [Forecasting Photovoltaic Generated Power - Regression Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/02%20-%20Supervised%20Machine%20Learning%20%5BRegression%5D/F%20-%20Forecasting%20Photovoltaic%20Generated%20Power.ipynb)
 
@@ -46,23 +46,23 @@ You are welcome to explore my findings in my personal capstone projects that I c
 
 • Procedure: Deployment of a pipeline that encompasses polynomial transformation, standard scaling, and regressor models. A GridSearchCV & hyper-parameters tuning of the algorithms along with benchmarking of Regular, Lasso, Ridge, Elastic Net & Gradient Boosting Regressors.
 
-• Findings: Winner is the Gradient Boosting Regressor model with an R2 score of ~ 0.79.
+• Findings: The winner is the Gradient Boosting Regressor model with an R2 score of ~ 0.79.
 
 #### C - [Fault Classification in Photovoltaic Plants - Multiclassification Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/03%20-%20Supervised%20Machine%20Learning%20%5BClassification%5D/J%20-%20Fault%20Classification%20in%20Photovoltaic%20Plants.ipynb)
 
-• Aim: Classify the faults that might occur in photovoltaic Panels, namely, Short-Circuit, Open-Circuit, Degradation, Shadowing.
+• Aim: Classify the faults that might occur in photovoltaic Panels, namely, Short-Circuit, Open-Circuit, Degradation, and Shadowing.
 
-• Procedure: Sratified split & features scaling. Rewieghting the imbalanced classes. GridSearch & hyper-parameters tuning of Logistic Regression, Decision Tree & Random Forrest along with benchmarking the three algorithms.
+• Procedure: Stratified split & features scaling. Re-weighting the imbalanced classes. GridSearch & hyper-parameters tuning of Logistic Regression, Decision Tree & Random Forrest along with benchmarking the three algorithms.
 
-• Findings:  Winner is Decision Tree algorithm with an accuracy and a weighted F1-score of ~ 97%.
+• Findings:  The winner is Decision Tree algorithm with an accuracy and a weighted F1-score of ~ 97%.
 
 #### D - [Date Fruit Segmentation & Dimensionality Reduction via PCA](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/04%20-%20Unsupervised%20Machine%20Learning/F%20-%20Date%20Fruit%20Segmentation%20%26%20Dimensionality%20Reduction%20via%20PCA.ipynb)
 
-• Aim: Cluster Dates based on their pysical features. 
+• Aim: Cluster dates based on their physical features. 
 
-• Procedure: Multicollinearity check and Data scaling. Reducing number of features via PCA. Comparative analysis between K-means, Agglomerative, Mean Shift & DBSCAN clustering.  
+• Procedure: Multicollinearity check and Data scaling. Reducing the number of features via PCA. Comparative analysis between K-means, Agglomerative, Mean Shift & DBSCAN clustering.  
 
-• Findings: Winner is k-means++ technique.
+• Findings: The winner is k-means++ technique.
 
 #### E -  [MRI Brain Tumor Classification via CNN](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/J%20-%20MRI%20Brain%20Tumor%20Classification%20via%20CNN.ipynb)
 
