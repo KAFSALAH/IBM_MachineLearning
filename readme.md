@@ -10,7 +10,7 @@ This repository aims is to build highly interpretable and accurate machine learn
 
 ## Courses
 
-The repository contains hands-on labs of 6 machine learning courses created by IBM, which cover in-depth and breadth numerous ML concepts.
+Moreover, the repository contains hands-on labs of 6 machine learning courses created by IBM, which cover in-depth and breadth numerous ML concepts.
 
 #### 01 - [Exploratory Data Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/01%20-%20Exploratory%20Data%20Analysis)
 Hands-on Labs: SQL, Hypothesis Testing, Features Transformation, Scaling, Skewness & Importance.
@@ -28,6 +28,7 @@ Hands-on Labs: Principle Component Analysis, Distance Metrics, Inertia & Distort
 Hands-on Labs: Gradient Descent, Backpropagation, Artificial NN, Convolutional NN, Recurrent NN.
 
 #### 06 - [IBM ML Capstone Project — Online Courses Recommender System](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
+Hands-on Labs: Bag of Words, Similarity Index, User-Profile Recommendation.
 
 ## Capstone Projects
 You are welcome to explore my findings in the personal capstone projects that I created during my learning journey.
@@ -71,3 +72,12 @@ You are welcome to explore my findings in the personal capstone projects that I 
 • Procedure: Image Scaling. Train a CNN model to classify brain tumors. Deploy the deep learning model using flask app.
 
 • Findings: The CNN model accuracy is 97%.
+
+#### F - [Data Science Course Recommendation System](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
+
+• Aim: To build a recommendation system that recommends the most suitable courses for learners on educational platforms.
+
+• Procedure: Several techniques are used to build the recommendation system. Listed in findings as bellow, 
+
+• Findings: Appraoch 1 - [Content-based Course Recommender System Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
+
