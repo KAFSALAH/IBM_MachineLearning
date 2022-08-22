@@ -28,7 +28,7 @@ Hands-on Labs: Principle Component Analysis, Distance Metrics, Inertia & Distort
 Hands-on Labs: Gradient Descent, Backpropagation, Artificial NN, Convolutional NN, Recurrent NN.
 
 #### 06 - [IBM ML Capstone Project — Online Courses Recommender System](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
-Hands-on Labs: Bag of Words, Similarity Index, User-Profile Recommendation.
+Hands-on Labs: Bag of Words, User-Profile Recommendation, Similarity-Index Recommendation.
 
 ## Capstone Projects
 You are welcome to explore my findings in the personal capstone projects that I created during my learning journey.
@@ -80,4 +80,5 @@ You are welcome to explore my findings in the personal capstone projects that I 
 • Procedure: Several techniques are used to build the recommendation system. Listed in findings as bellow, 
 
 • Findings: Appraoch 1 - [Content-based Course Recommender System Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
+Approach 2 - [Content-based Course Recommender System using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
