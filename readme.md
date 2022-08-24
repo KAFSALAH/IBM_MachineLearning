@@ -73,12 +73,13 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Findings: The CNN model accuracy is 97%.
 
-#### F - [Data Science Course Recommendation System](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
+#### F - [Personalized Course Recommendation System for Data Science Learners.](https://github.com/KAFSALAH/IBM_MachineLearning/tree/main/06%20-%20Recommender%20Systems)
 
 • Aim: To build a recommendation system that recommends the most suitable courses for learners on educational platforms.
 
 • Procedure: Several techniques are used to build the recommendation system. Listed in findings as bellow, 
 
 • Findings: Appraoch 1 - [Content-based Course Recommender System Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
+
 Approach 2 - [Content-based Course Recommender System using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
