@@ -83,4 +83,9 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 Approach 2 - [Content-based Course Recommender System using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
-Approach 3 - [COntent-Based PCA Clustering Course Recommender System](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
+Approach 3 - [Content-Based PCA Clustering Course Recommender System](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
+
+Approach 4 - [Collaborative Filtering based Recommender System using K Nearest Neighbor
+](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/G%20-%20Collaborative-Filtering%20via%20KNN.ipynb)
+
+Approach 5 - [Collaborative Filtering based Recommender System using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
