@@ -81,15 +81,17 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Findings: The recommender system is created via several approaches as follows
 
-Appraoch 1 - [Content-Based Course Recommender System Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
+Appraoch 1 - [Content-Based Recommender Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
 
-Approach 2 - [Content-Based Course Recommender System using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
+Approach 2 - [Content-Based Recommender Using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
-Approach 3 - [Content-Based PCA Clustering Course Recommender System](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
+Approach 3 - [Content-Based Recommender via PCA Clustering](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
 
-Approach 4 - [Collaborative-Filtering based Recommender System using K Nearest Neighbor
+Approach 4 - [Collaborative-Filtering Recommender Using K Nearest Neighbor
 ](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/G%20-%20Collaborative-Filtering%20via%20KNN.ipynb)
 
-Approach 5 - [Collaborative-Filtering based Recommender System using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
+Approach 5 - [Collaborative-Filtering Recommender Using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
 
-Approach 6 - [Course Rating Prediction using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Predictive-Model%20Recommender%20via%20ANN.ipynb)
+Approach 6 - [Collaborative-Filtering Recommender using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Collaborative-Filtering%20via%20ANN.ipynb)
+
+Approach 7 - [Collaborative-Filtering Recommender using Embedding Features Regression](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/J%20-%20Collaborative-Filtering%20via%20Embeddings-Regression.ipynb)
