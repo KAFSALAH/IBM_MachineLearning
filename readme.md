@@ -92,4 +92,4 @@ Approach 4 - [Collaborative Filtering based Recommender System using K Nearest N
 
 Approach 5 - [Collaborative Filtering based Recommender System using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
 
-Approach 6 - [Course Rating Prediction using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Collaborative-Filtering%20via%20ANN.ipynb)
+Approach 6 - [Course Rating Prediction using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Predictive-Model%20Recommender%20via%20ANN.ipynb)
