@@ -49,7 +49,7 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Findings: The winner is the Gradient Boosting Regressor model with an R2 score of ~ 0.79.
 
-#### C - [Fault Classification in Photovoltaic Plants - Multiclassification Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/03%20-%20Supervised%20Machine%20Learning%20%5BClassification%5D/J%20-%20Fault%20Classification%20in%20Photovoltaic%20Plants.ipynb)
+#### C - [Fault Classification in Photovoltaic Plants - Multi-Class Classification Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/03%20-%20Supervised%20Machine%20Learning%20%5BClassification%5D/J%20-%20Fault%20Classification%20in%20Photovoltaic%20Plants.ipynb)
 
 • Aim: Classify the faults that might occur in photovoltaic Panels, namely, Short-Circuit, Open-Circuit, Degradation, and Shadowing.
 
@@ -57,7 +57,7 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Findings:  The winner is Decision Tree algorithm with an accuracy and a weighted F1-score of ~ 97%.
 
-#### D - [Date Fruit Segmentation & Dimensionality Reduction via PCA](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/04%20-%20Unsupervised%20Machine%20Learning/F%20-%20Date%20Fruit%20Segmentation%20%26%20Dimensionality%20Reduction%20via%20PCA.ipynb)
+#### D - [Date Fruit Segmentation & Dimensionality Reduction via PCA - Unsupervised Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/04%20-%20Unsupervised%20Machine%20Learning/F%20-%20Date%20Fruit%20Segmentation%20%26%20Dimensionality%20Reduction%20via%20PCA.ipynb)
 
 • Aim: Cluster dates based on their physical features. 
 
@@ -65,7 +65,7 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Findings: The winner is k-means++ technique.
 
-#### E -  [MRI Brain Tumor Classification via CNN](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/J%20-%20MRI%20Brain%20Tumor%20Classification%20via%20CNN.ipynb)
+#### E -  [MRI Brain Tumor Classification via CNN - Deep Learning Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/J%20-%20MRI%20Brain%20Tumor%20Classification%20via%20CNN.ipynb)
 
 • Aim: Detect whether a patient has a brain tumor.
 
