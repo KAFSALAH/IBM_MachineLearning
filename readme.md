@@ -77,7 +77,7 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Aim: To build a recommendation system that recommends the most suitable courses for learners on educational platforms.
 
-• Procedure: Several techniques are used to build the recommendation system. Listed in findings as bellow, 
+• Procedure: Several techniques are used to build the recommendation system , which are listed in findings.
 
 • Findings: The recommender system is created via several approaches as follows
 
@@ -85,13 +85,15 @@ Appraoch 1 - [Content-Based Recommender Using User Profile and Course Genres](ht
 
 Approach 2 - [Content-Based Recommender Using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
-Approach 3 - [Content-Based Recommender via PCA Clustering](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
+Approach 3 - [Content-Based Recommender Using PCA Clustering](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
 
 Approach 4 - [Collaborative-Filtering Recommender Using K Nearest Neighbor
 ](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/G%20-%20Collaborative-Filtering%20via%20KNN.ipynb)
 
 Approach 5 - [Collaborative-Filtering Recommender Using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
 
-Approach 6 - [Collaborative-Filtering Recommender using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Collaborative-Filtering%20via%20ANN.ipynb)
+Approach 6 - [Collaborative-Filtering Recommender Using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Collaborative-Filtering%20via%20ANN.ipynb)
 
-Approach 7 - [Collaborative-Filtering Recommender using Embedding Features Regression](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/J%20-%20Collaborative-Filtering%20via%20Embeddings-Regression.ipynb)
+Approach 7 - [Collaborative-Filtering Recommender Using Embedding Features Regression](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/J%20-%20Collaborative-Filtering%20via%20Embeddings-Regression.ipynb)
+
+Approach 8 - [Collaborative-Filtering Recommender using Embedding Features Classification](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/K%20-%20Collaborative-Filtering%20via%20Embeddings-Classification.ipynb)
