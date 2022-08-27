@@ -6,7 +6,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-This repository aims is to build highly interpretable and accurate machine learning models that balance variance, bias, and time complexity. The Scikit-Learn framework is being used to build machine learning models and Keras for deep learning :bulb:
+This repository aims to build highly interpretable and accurate machine learning models that balance variance, bias, and time complexity. The Scikit-Learn framework is being used to build machine learning models and Keras for deep learning :bulb:
 
 ## Courses
 
@@ -31,7 +31,7 @@ Hands-on Labs: Gradient Descent, Backpropagation, Artificial NN, Convolutional N
 Hands-on Labs: Bag of Words, User-Profile Recommendation, Similarity-Index Recommendation.
 
 ## Capstone Projects
-You are welcome to explore my findings in the personal capstone projects that I created during my learning journey.
+You are welcome to explore my findings in the personal capstone projects I created during my learning journey.
 
 #### A - [Treatment Costs per Person - Exploratory & Predictive Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/01%20-%20Exploratory%20Data%20Analysis/F%20-%20Treatment%20Costs%20per%20Person%20-%20Exploratory%20%26%20Predictive%20Analysis.ipynb)
 
@@ -53,9 +53,9 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Aim: Classify the faults that might occur in photovoltaic Panels, namely, Short-Circuit, Open-Circuit, Degradation, and Shadowing.
 
-• Procedure: Stratified split & features scaling. Re-weighting the imbalanced classes. GridSearch & hyper-parameters tuning of Logistic Regression, Decision Tree & Random Forrest along with benchmarking the three algorithms.
+• Procedure: Stratified split & features scaling. Re-weighting the imbalanced classes. GridSearch & hyper-parameters tuning of Logistic Regression, Decision Tree & Random Forrest, and benchmarking the three algorithms.
 
-• Findings:  The winner is Decision Tree algorithm with an accuracy and a weighted F1-score of ~ 97%.
+• Findings:  The winner is the Decision Tree algorithm with an accuracy and a weighted F1-score of ~ 97%.
 
 #### D - [Date Fruit Segmentation & Dimensionality Reduction via PCA - Unsupervised Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/04%20-%20Unsupervised%20Machine%20Learning/F%20-%20Date%20Fruit%20Segmentation%20%26%20Dimensionality%20Reduction%20via%20PCA.ipynb)
 
@@ -63,13 +63,13 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Procedure: Multicollinearity check and Data scaling. Reducing the number of features via PCA. Comparative analysis between K-means, Agglomerative, Mean Shift & DBSCAN clustering.  
 
-• Findings: The winner is k-means++ technique.
+• Findings: The winner is the k-means++ technique.
 
 #### E -  [MRI Brain Tumor Classification via CNN - Deep Learning Analysis](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/05%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/J%20-%20MRI%20Brain%20Tumor%20Classification%20via%20CNN.ipynb)
 
 • Aim: Detect whether a patient has a brain tumor.
 
-• Procedure: Image Scaling. Train a CNN model to classify brain tumors. Deploy the deep learning model using flask app.
+• Procedure: Image Scaling. Train a CNN model to classify brain tumors. Then, deploy the deep learning model using the flask app.
 
 • Findings: The CNN model accuracy is 97%.
 
@@ -77,11 +77,11 @@ You are welcome to explore my findings in the personal capstone projects that I 
 
 • Aim: To build a recommendation system that recommends the most suitable courses for learners on educational platforms.
 
-• Procedure: Several techniques are used to build the recommendation system , which are listed in findings.
+• Procedure: As listed in the findings, several techniques are used to build the recommendation system.
 
 • Findings: The recommender system is created via several approaches as follows
 
-Appraoch 1 - [Content-Based Recommender Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
+Approach 1 - [Content-Based Recommender Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
 
 Approach 2 - [Content-Based Recommender Using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
