@@ -6,6 +6,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+<p align="center">
+  <img src="https://github.com/KAFSALAH/KAFSALAH/blob/main/IBM-ML%20Certificate.png" width="500">
+</p>
+
 This repository aims to build highly interpretable and accurate machine learning models that balance variance, bias, and time complexity. The Scikit-Learn framework is being used to build machine learning models and Keras for deep learning :bulb:
 
 ## Courses
@@ -97,3 +101,6 @@ Approach 6 - [Collaborative-Filtering Recommender Using Neural Networks](https:/
 Approach 7 - [Collaborative-Filtering Recommender Using Embedding Features Regression](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/J%20-%20Collaborative-Filtering%20via%20Embeddings-Regression.ipynb)
 
 Approach 8 - [Collaborative-Filtering Recommender using Embedding Features Classification](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/K%20-%20Collaborative-Filtering%20via%20Embeddings-Classification.ipynb)
+
+## Acknowledgment 
+My friend, [Mohamad Osman's ML-Repo](https://github.com/AI-MOO/IBM-Machine-Learning-Professional-Certificate) has been a great source of inspiration. I implore you to have a look at his remarkable work.
