@@ -4,4 +4,4 @@
 </p>
 
 #### • This project is conducted under IBM guidance. The objectives and data are delivered by IBM. According to the provided instructions,  my tasks were cleaning data, applying EDA, and building and evaluating models.
-#### • The dashboard backend and frontend are created by IBM. I only modified a few things.
+
