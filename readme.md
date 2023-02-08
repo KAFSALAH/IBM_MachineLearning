@@ -83,28 +83,26 @@ You are welcome to explore my findings in the personal capstone projects I creat
 
 • Procedure: As listed in the findings, several techniques are used to build the recommendation system.
 
-• Findings: The recommender system is created via nine approaches. Firstly, the content-based approaches.
+• Findings: The recommender system is created via eight approaches. Firstly, the content-based approaches.
 
-Approach 1 - [Content-Based Recommender Using Cosine Similarity](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/C%20-%20Cosine%20Similarity%20Index.ipynb)
+Approach 1 - [Content-Based Recommender Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
 
-Approach 2 - [Content-Based Recommender Using User Profile and Course Genres](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/D%20-%20Content-Based%20User-Profile.ipynb)
+Approach 2 - [Content-Based Recommender Using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
 
-Approach 3 - [Content-Based Recommender Using Course Similarities](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/E%20-%20Content-Based%20Similarity-Index.ipynb)
-
-Approach 4 - [Content-Based Recommender Using PCA Clustering](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
+Approach 3 - [Content-Based Recommender Using PCA Clustering](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/F%20-%20Content-Based%20PCA-Clustering.ipynb)
 
 • Findings: The remaining five approaches are collaborative-based. The comparison between them is based on RMSE.
 
-Approach 5 - [Collaborative-Filtering Recommender Using K Nearest Neighbor
+Approach 4 - [Collaborative-Filtering Recommender Using K Nearest Neighbor
 ](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/G%20-%20Collaborative-Filtering%20via%20KNN.ipynb)
 
-Approach 6 - [Collaborative-Filtering Recommender Using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
+Approach 5 - [Collaborative-Filtering Recommender Using Non-negative Matrix Factorization](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/H%20-%20Collaborative-Filtering%20via%20NMF.ipynb)
 
-Approach 7 - [Collaborative-Filtering Recommender Using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Collaborative-Filtering%20via%20ANN.ipynb)
+Approach 6 - [Collaborative-Filtering Recommender Using Neural Networks](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/I%20-%20Collaborative-Filtering%20via%20ANN.ipynb)
 
-Approach 8 - [Collaborative-Filtering Recommender Using Embedding Features Regression](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/J%20-%20Collaborative-Filtering%20via%20Embeddings-Regression.ipynb)
+Approach 7 - [Collaborative-Filtering Recommender Using Embedding Features Regression](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/J%20-%20Collaborative-Filtering%20via%20Embeddings-Regression.ipynb)
 
-Approach 9 - [Collaborative-Filtering Recommender using Embedding Features Classification](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/K%20-%20Collaborative-Filtering%20via%20Embeddings-Classification.ipynb)
+Approach 8 - [Collaborative-Filtering Recommender using Embedding Features Classification](https://github.com/KAFSALAH/IBM_MachineLearning/blob/main/06%20-%20Recommender%20Systems/K%20-%20Collaborative-Filtering%20via%20Embeddings-Classification.ipynb)
 
 ## Acknowledgment 
 My friend, [Mohamad Osman's ML-Repo](https://github.com/AI-MOO/IBM-Machine-Learning-Professional-Certificate) has been a great source of inspiration. I implore you to have a look at his remarkable work.
